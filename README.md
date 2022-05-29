@@ -1,1 +1,1 @@
-# projects using mysql
+# Project using mySQL
